@@ -86,14 +86,7 @@ width: 100%;
     align-items: center;
     justify-content: flex-end ;
 }
-#overlay #btn{
-    /* height: 100%;
-    width: 100%; */
-    /* display: flex;
-    align-items: center;
-    justify-content: center; */
-    /* gap: 20px; */
-}
+
 #btn button{
     padding: 10px 50px ;
     font-weight: 400;
